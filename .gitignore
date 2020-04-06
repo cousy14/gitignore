@@ -26,3 +26,11 @@ _backup
 *.DS_Store
 
 *_backup
+
+*DS_Store
+
+*.png_backup
+
+*.DS_Store
+
+*.html_old
